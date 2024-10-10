@@ -10,3 +10,8 @@ ul{
 .img3{
     width: 300px;
     height: 200px;
+
+    .img5{
+        width:300px;
+        height:200px;
+    }
